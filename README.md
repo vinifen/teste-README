@@ -3,7 +3,7 @@
 ## Select Language / Selecione o Idioma
 
 - [English](#english)
-- [Português](#portuguese)
+- [Português](#portugues)
 
 ---
 
@@ -26,7 +26,7 @@ Guidelines for contributing to the project.
 
 ---
 
-## Português
+## Portugues
 
 ### Descrição
 Esta é uma descrição do projeto em português.
